@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+instance/
+.env
+
+# Flask
+*.db
+*.sqlite3
+
+# VSCode
+.vscode/
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
